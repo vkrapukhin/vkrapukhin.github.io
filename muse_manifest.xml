@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="knowlab.pro" resolutions="1x" timestamp="1559580544992">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="knowlab.pro" resolutions="1x" timestamp="1562940484840">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3758807983" ref="index"/>
+    <file name="index.css" crc="362329260" ref="index"/>
+    <file name="nomq_index.css" crc="4059615005" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,12 +11,8 @@
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u149.php" crc="3795967254" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
     <file name="knowlab logo example 4.jpg" crc="280718290" ref="index">
@@ -24,9 +21,24 @@
     <file name="running1-u265-fr.png" crc="395860217" ref="index"/>
     <file name="gift1.png" crc="4011923999" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="shooting-target_orange-u298-fr.png" crc="4285348029" ref="index"/>
     <file name="rainbow_orange-u287-fr.png" crc="64420428" ref="index"/>
+    <file name="knowlab logo example 4-u94-fr.jpg" crc="29378946" ref="index"/>
+    <file name="running1-u265-fr2.png" crc="221584104" ref="index"/>
+    <file name="shooting-target_orange-u298-fr2.png" crc="370308168" ref="index"/>
+    <file name="rainbow_orange-u287-fr2.png" crc="3960435527" ref="index"/>
+    <file name="knowlab logo example 4-u94-fr2.jpg" crc="4039969247" ref="index"/>
+    <file name="running1-u265-fr3.png" crc="477536640" ref="index"/>
+    <file name="gift1-u284-fr.png" crc="4212637792" ref="index"/>
+    <file name="shooting-target_orange-u298-fr3.png" crc="387669891" ref="index"/>
+    <file name="rainbow_orange-u287-fr3.png" crc="4255632522" ref="index"/>
+    <file name="knowlab logo example 4-u94-fr3.jpg" crc="4014980057" ref="index"/>
+    <file name="running1-u265-fr4.png" crc="3803664237" ref="index"/>
+    <file name="gift1-u284-fr2.png" crc="3758570504" ref="index"/>
+    <file name="shooting-target_orange-u298-fr4.png" crc="4047594226" ref="index"/>
+    <file name="rainbow_orange-u287-fr4.png" crc="3761030240" ref="index"/>
   </folder>
-  <file name="index.html" crc="3849892867" seo="true" mt="1559136000901" redirect="true"/>
+  <file name="index.html" crc="3848964123" seo="true" mt="1562940307016" redirect="true"/>
 </manifest>
